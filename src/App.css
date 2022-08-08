@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500;700;900&display=swap');
+#root,
+h5,
+h1,
+h2,
+h3,
+h4,
+h6,
+p {
+  font-family: 'Roboto', sans-serif;
+}
+.navbar-nav a {
+  font-size: 18px;
+}
+
+img{
+  object-fit: contain;
+}
+
+.bg-pink{
+  background-color: #fff6f6;
+}
+
